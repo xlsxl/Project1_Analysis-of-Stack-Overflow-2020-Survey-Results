@@ -1,3 +1,8 @@
+
+### Analysis of Stack Overflow 2020 Survey Results
+
+
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -33,13 +38,14 @@ the countries well according to their population ?<br>
 in mostly represented countries ?<br>
 
 3. How is the distribution of following features in those countries ?<br>
+   * Job satisfaction
    * Primary field of study
    * Education Level
-   * Job satisfaction
    * Employment and Job seeking status
    * Education importance<br>
    
 4. What are the most effected features on job satistaction ? <br>
+
    I created a Logistic Regression Model, in order to predict the job satisfaction status. <br>
    Very dissatisfied and Slightly dissatisfied values are labelled as Dissatisfied; <br>
    Neither satisfied nor dissatisfied values are deleted from data and Slightly satisfied and Very satisfied are labelled as Satisfied. <br>
